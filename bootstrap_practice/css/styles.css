@@ -1,0 +1,16 @@
+.container-fluid {
+   width: 80%;
+}
+.carousel-indicators li {
+   border-color: black;
+   background-color: black;
+}
+.album_row {
+   display: inline-block;
+   margin-right: 1em;
+}
+.glyphicon.glyphicon-play-circle {
+   font-size: 1.5em;
+   margin-left: 1em;
+   vertical-align: middle;
+}
